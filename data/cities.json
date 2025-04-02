@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Manzanera",
-      "position": {
-        "lat": "40.0602055157046",
-        "lng": "-0.803375244140625"
-      },
-      "date": "2025-04-02T08:49:48.419Z",
-      "notes": "asasas",
-      "emoji": "🇪🇸",
-      "country": "Spain",
-      "id": 98443198
-    },
-    {
-      "cityName": "Istanbul",
-      "position": {
-        "lat": "41.1290213474951",
-        "lng": "29.003906250000004"
-      },
-      "date": "2025-04-02T08:52:14.392Z",
-      "notes": "Istannnnnnn",
-      "emoji": "🇹🇷",
-      "country": "Turkiye",
-      "id": 98443199
-    },
-    {
-      "cityName": "Tortosa",
-      "position": {
-        "lat": "40.811730481593585",
-        "lng": "0.5081176757812501"
-      },
-      "date": "2025-04-02T10:30:36.988Z",
-      "notes": "hahaha",
-      "emoji": "🇪🇸",
-      "country": "Spain",
-      "id": 98443200
-    },
-    {
-      "cityName": "Zaragoza",
-      "position": {
-        "lat": "41.61544232468112",
-        "lng": "-0.8789062500000001"
-      },
-      "date": "2025-04-02T10:34:35.623Z",
-      "notes": "zaraaaa",
-      "emoji": "🇪🇸",
-      "country": "Spain",
-      "id": 98443201
     }
   ]
 }
